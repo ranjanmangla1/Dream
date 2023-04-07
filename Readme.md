@@ -1,7 +1,7 @@
 # Build
-'''
+```
 npm run build
-'''
+```
 
 # About
 
